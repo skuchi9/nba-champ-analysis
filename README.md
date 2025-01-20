@@ -1,4 +1,3 @@
-# draftvision
+# The Winning Formula: Statistical Keys to NBA Championships
 
-# hey everyone!
-- very funny man!
+# Introduction
