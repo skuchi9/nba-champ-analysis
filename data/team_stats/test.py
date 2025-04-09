@@ -1,0 +1,2 @@
+x = "word"
+print(min)
